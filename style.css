@@ -1,0 +1,41 @@
+html {
+   font-size: 6.9vw; 
+}
+
+section {
+    display: grid;
+    width: 100vw;
+} 
+
+div {
+    width: 50vw;
+    text-align: center;
+    margin: 0 auto;
+    color: cyan;
+}
+
+body {
+    font-size: 15px;
+    background-color: black;
+    color: rgb(98, 235, 171);
+}
+
+h1, h2 {
+ color: rgb(255, 125, 125);   
+}
+
+h1 {
+    font-size: 2.0rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+.nika :hover {
+ background-color: rgb(11, 15, 14);
+}
+
+.heli :hover {
+    background-color: rgb(1, 38, 39);
+}
